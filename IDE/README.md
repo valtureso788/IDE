@@ -11,4 +11,3 @@
 ## Запуск
 ```bash
 python main.py
-<img width="685" height="539" alt="image" src="https://github.com/user-attachments/assets/ac5f21d2-f739-47fd-9b4d-b19b62ea8636" />
