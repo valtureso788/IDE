@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+habits.json
+.DS_Store
+.vscode/
+.idea/
